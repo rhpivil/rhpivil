@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Delvia
-- 🌱 I’m currently learning about back-end development
+👋 Hi, I’m Delvia <br>
+🌱 I’m currently learning about back-end development
 
 <p align="left">
 <a href="https://github.com/rhpivil">
